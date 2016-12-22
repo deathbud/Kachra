@@ -9,7 +9,7 @@
          <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     </head>
-    <body>
+    <body style="background-color:beige;>
       <nav style="background-color:#359038">
       <div class="nav-wrapper">
         <a href="AddWorker.jsp" class="brand-logo center">Bin Monitor</a>
